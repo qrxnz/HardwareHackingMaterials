@@ -2,6 +2,5 @@
 
 - 🎥 Videos 🎥
 - 📖 Books 📖
-- 👾 Boards (and software therefore) 👾
+- 👾 Tools (and software therefore) 👾
 - 👨🏻‍💻 Software 👨🏻‍💻
-- 🛠️ Tools 🛠️

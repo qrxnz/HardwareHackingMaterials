@@ -16,3 +16,5 @@ This is a repository of training materials and interesting reads for everything 
 - [Samy Kamkar's Crash Course in How to Be a Hardware Hacker](https://youtu.be/tlwXmNnXeSY?si=q3FM2dbISca98hww)
 
 # 📖 Books 📖
+
+- [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)

@@ -18,3 +18,4 @@ This is a repository of training materials and interesting reads for everything 
 # 📖 Books 📖
 
 - [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
+- [Practical IoT Hacking](https://nostarch.com/practical-iot-hacking)

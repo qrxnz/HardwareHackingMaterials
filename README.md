@@ -22,7 +22,9 @@ This is a repository of training materials and interesting reads for everything 
 
 # 👾 Tools 👾
 
-## RP 2040:
+## RP 2040
+
+Software:
 - [DragonProbe](https://git.lain.faith/sys64738/DragonProbe) \
 Adding Bus Pirate/..-style debugging & probing features to regular MCU boards such as the Raspberry Pi Pico
 

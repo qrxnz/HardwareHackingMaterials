@@ -26,5 +26,6 @@ This is a repository of training materials and interesting reads for everything 
 - [DragonProbe](https://git.lain.faith/sys64738/DragonProbe) \
 Adding Bus Pirate/..-style debugging & probing features to regular MCU boards such as the Raspberry Pi Pico
 
-- Bus Pirate
-- HydraBus 
+## Bus Pirate
+
+## HydraBus 

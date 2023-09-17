@@ -34,4 +34,6 @@ Adding Bus Pirate/..-style debugging & probing features to regular MCU boards su
 
 ![buspirate](./img/buspirate.jpg)
 
-## HydraBus 
+## HydraBus
+
+![HydraBus](./img/HydraBus3_580x.jpg)

@@ -24,6 +24,8 @@ This is a repository of training materials and interesting reads for everything 
 
 ## RP 2040
 
+![rp2040](./img/Raspberry_Pi_Pico.jpg)
+
 ### Software:
 - [DragonProbe](https://git.lain.faith/sys64738/DragonProbe) \
 Adding Bus Pirate/..-style debugging & probing features to regular MCU boards such as the Raspberry Pi Pico

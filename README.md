@@ -31,6 +31,9 @@ This is a repository of training materials and interesting reads for everything 
 - [DragonProbe](https://git.lain.faith/sys64738/DragonProbe) \
 Adding Bus Pirate/..-style debugging & probing features to regular MCU boards such as the Raspberry Pi Pico
 
+- [xvc-pico](https://github.com/kholia/xvc-pico/) \
+This project implements a Raspberry Pico based Xilinx Virtual Cable (XVC). It allows using Raspberry Pico as a JTAG adapter for programming Xilinx FPGAs
+
 ## Bus Pirate
 
 ![buspirate](./img/buspirate.jpg)

@@ -1,5 +1,5 @@
 # HardwareHackingMaterials
-This is a repository of training materials and interesting reads for everything related to hardware hacking
+This is a repository of training materials and interesting reads for everything related to hardware hacking.
 
 # TOC
 - 🎥 Videos 🎥

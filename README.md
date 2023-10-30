@@ -36,8 +36,8 @@ This project implements a Raspberry Pico based Xilinx Virtual Cable (XVC). It al
 
 ## Bus Pirate
 
-![buspirate](./img/buspirate.jpg)
+![buspirate](./img/bus_pirate.png)
 
 ## HydraBus
 
-![HydraBus](./img/HydraBus3_580x.jpg)
+![HydraBus](./img/hydra_bus.png)

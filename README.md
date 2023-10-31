@@ -25,21 +25,21 @@ This is a repository of training materials and interesting reads for everything 
 
 ## Microcontrollers:
 
-## - RP 2040
+### - RP 2040
 
 ![rp2040](./img/Raspberry_Pi_Pico.jpg)
 
-### Software:
+#### Software:
 - [DragonProbe](https://git.lain.faith/sys64738/DragonProbe) \
 Adding Bus Pirate/..-style debugging & probing features to regular MCU boards such as the Raspberry Pi Pico
 
 - [xvc-pico](https://github.com/kholia/xvc-pico/) \
 This project implements a Raspberry Pico based Xilinx Virtual Cable (XVC). It allows using Raspberry Pico as a JTAG adapter for programming Xilinx FPGAs
 
-## - Bus Pirate
+### - Bus Pirate
 
 ![buspirate](./img/bus_pirate.png)
 
-## - HydraBus
+### - HydraBus
 
 ![HydraBus](./img/hydra_bus.png)

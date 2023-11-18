@@ -15,6 +15,7 @@ This is a repository of training materials and interesting reads for everything 
 - [Joe Grand's Hardware Hacking Basics](https://youtu.be/EI9wiOgNl8U)
 - [Samy Kamkar's Crash Course in How to Be a Hardware Hacker](https://youtu.be/tlwXmNnXeSY?si=q3FM2dbISca98hww)
 - [Intro to hardware security: UART access and SPI firmware extraction](https://www.youtube.com/watch?v=YD6ODeER8qM)
+- [Extracting Firmware from External Memory via JTAG](https://youtu.be/IadnBUJAvks?si=33OfLHGi2ZOxfdwM)
 
 # 📖 Books 📖
 

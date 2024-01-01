@@ -8,17 +8,17 @@ This is a repository of training materials and interesting reads for everything 
 - 👨🏻‍💻 Software 👨🏻‍💻
 
 
-
 # 🎥 Videos 🎥
 
 ## Intro:
 - [Joe Grand's Hardware Hacking Basics](https://youtu.be/EI9wiOgNl8U)
 - [Samy Kamkar's Crash Course in How to Be a Hardware Hacker](https://youtu.be/tlwXmNnXeSY?si=q3FM2dbISca98hww)
+
+## Practical cases:
 - [Intro to hardware security: UART access and SPI firmware extraction](https://www.youtube.com/watch?v=YD6ODeER8qM)
 - [Extracting Firmware from External Memory via JTAG](https://youtu.be/IadnBUJAvks?si=33OfLHGi2ZOxfdwM)
 
 # 📖 Books 📖
-
 - [The Hardware Hacking Handbook](https://nostarch.com/hardwarehacking)
 - [Practical IoT Hacking](https://nostarch.com/practical-iot-hacking)
 
@@ -27,7 +27,6 @@ This is a repository of training materials and interesting reads for everything 
 ## Microcontrollers:
 
 ### RP 2040
-
 ![rp2040](./img/Raspberry_Pi_Pico.jpg)
 
 #### Software:
@@ -38,9 +37,7 @@ Adding Bus Pirate/..-style debugging & probing features to regular MCU boards su
 This project implements a Raspberry Pico based Xilinx Virtual Cable (XVC). It allows using Raspberry Pico as a JTAG adapter for programming Xilinx FPGAs
 
 ### Bus Pirate
-
 ![buspirate](./img/bus_pirate.png)
 
 ### HydraBus
-
 ![HydraBus](./img/hydra_bus.png)
